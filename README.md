@@ -11,9 +11,14 @@ And i love sharing my knowledge through some open-source projects, or collaborat
 
 **My Tutorials and Topics:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeref278&repo=flutter_boilerplate&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/zeref278/flutter_boilerplate)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeref278&repo=flutter_flavors_manual&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/zeref278/flutter_flavors_manual)
+<table>
+<thead>
+<tr>
+<th><a href="https://github.com/zeref278/flutter_boilerplate"><img alt="GitHub: flutter_boilerplate" src="https://github-readme-stats.vercel.app/api/pin/?username=zeref278&repo=flutter_boilerplate&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a></th>
+<th><a href="https://github.com/zeref278/flutter_flavors_manual"><img alt="GitHub: flutter_flavors_manual" src="https://github-readme-stats.vercel.app/api/pin/?username=zeref278&repo=flutter_flavors_manual&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a></th>
+</tr>
+</thead>
+</table>
 
 **My packages:**
 - ***image_card***: [pub.dev](https://pub.dev/packages/image_card)
