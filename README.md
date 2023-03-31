@@ -9,17 +9,6 @@ And i love sharing my knowledge through some open-source projects, or collaborat
   
 <a href="https://github.com/zeref278"><img alt="GitHub: zeref278" src="https://img.shields.io/github/followers/zeref278?label=Follow&style=social" /></a>    <a href="https://www.youtube.com/channel/UC9iXx3uqdIFixublz8GpOZA"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC9iXx3uqdIFixublz8GpOZA?style=social" /></a> 
 
-**My Tutorials and Topics:**
-
-<table>
-<thead>
-<tr>
-<th><a href="https://github.com/zeref278/flutter_boilerplate"><img alt="GitHub: flutter_boilerplate" src="https://github-readme-stats.vercel.app/api/pin/?username=zeref278&repo=flutter_boilerplate&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a></th>
-<th><a href="https://github.com/zeref278/flutter_flavors_manual"><img alt="GitHub: flutter_flavors_manual" src="https://github-readme-stats.vercel.app/api/pin/?username=zeref278&repo=flutter_flavors_manual&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /></a></th>
-</tr>
-</thead>
-</table>
-
 **My packages:**
 - ***image_card***: [pub.dev](https://pub.dev/packages/image_card)
 
